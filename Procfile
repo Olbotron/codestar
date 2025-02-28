@@ -1,0 +1,1 @@
+web: gunicorn ols_project.wsgi
