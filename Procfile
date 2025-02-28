@@ -1,1 +1,1 @@
-web: gunicorn ols_project.wsgi
+web: gunicorn codestar.wsgi
